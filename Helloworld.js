@@ -1,0 +1,1 @@
+console.log("Hello World") // console.log é o comando para exibir algo na tela!
